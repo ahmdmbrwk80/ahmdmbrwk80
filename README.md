@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/ahmed-mabrouk-ahmed181999/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100011418333372" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+201015212053" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:ahmdmbrwk80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 
 
