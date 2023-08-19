@@ -20,28 +20,44 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-mabrouk-ahmed181999/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011418333372" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+201015212053" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+
+
+
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Asp.Net](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" alt="CSS">&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
+<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL Server">&nbsp;
+<img src="https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
+<img src="https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="LINQ">&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="Entity Framework">&nbsp;
+<img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET">&nbsp;
+<img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API">&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![Sql server](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdmbrwk80&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ahmdmbrwk80&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ahmdmbrwk80&style=for-the-badge">
 </a>
