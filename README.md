@@ -13,15 +13,15 @@
 
 - 🏢 I'm a Junior Fullstack .Net web developer
 - 👨‍💻 As a CS graduate, and ITI student I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular , and ASP.Net , or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 ... .
+- 💬 Ask me about my experience with JavaScript, Angular , C# and ASP.Net , or anything related to web development.
+
 
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-mabrouk-ahmed181999/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/+201015212053" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
